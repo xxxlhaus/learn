@@ -16,4 +16,8 @@ public class dog{
 			System.out.println("yinyin");
 		}
 	}
+
+	public int eat（weight）{
+	}
+		
 }
