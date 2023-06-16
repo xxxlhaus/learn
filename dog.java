@@ -7,9 +7,8 @@ kpublic class dog{
 
 	}
 
-
 	public static void speak (int weight) {
-		if (weight > 20) {
+		if (weight >= 20) {
 			System.out.println("bark");
 		}
 
