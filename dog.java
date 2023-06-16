@@ -7,7 +7,7 @@ public class dog{
 	}
 
 
-	public static void bark (weight) {
+	public static void bark (int weight) {
 		if (weight > 20) {
 			System.out.println("bark");
 		}
@@ -17,7 +17,10 @@ public class dog{
 		}
 	}
 
-	public int eat（weight）{
+	public int eat(weight) {
 	}
-		
+	
+	public static String family {
+		return "wolf";
+	}
 }
