@@ -1,6 +1,7 @@
 kpublic class dog{
 	public int weight;
 	public String color;
+	public int size;
 
 	public static void main (String[] args) {
 
