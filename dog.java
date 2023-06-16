@@ -1,4 +1,4 @@
-public class dog{
+kpublic class dog{
 	public int weight;
 	public String color;
 
@@ -7,7 +7,7 @@ public class dog{
 	}
 
 
-	public static void bark (int weight) {
+	public static void speak (int weight) {
 		if (weight > 20) {
 			System.out.println("bark");
 		}
