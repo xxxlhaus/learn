@@ -21,6 +21,6 @@ public class dog{
 	}
 	
 	public static String family {
-		return "wolf";
+		return "wolf-canine";
 	}
 }
